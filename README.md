@@ -11,8 +11,8 @@
 
 1. Get `Access_Token` by Registered App with Master Account or Service Principle
 2. Get `Report_ID` and `Group_ID` from the url of Power BI Dashboard
-3. Get Power BI Report `Embeded_Token` with `Access_Token` and `Report_ID` and `Group_ID`
-4. Get `Embeded_URL` with `Report_ID` and `Group_ID`
+3. Get Power BI Report `Embeded_Token` with Access_Token and Report_ID and Group_ID
+4. Get `Embeded_URL` with Report_ID and Group_ID
 
 ### Client Rendering
 
