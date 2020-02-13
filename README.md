@@ -41,6 +41,6 @@
 
 ### 坑
 
-- 文档混乱，代码都写好了，官方文档还没找到
-- 需要用 Admin 账号才能看到 powerbi 的 admin portal 配置
-- 用自己的 mail2.sysu.edu.cn 注册 azure 和 powerbi 后，其实是作为成员用户使用,无法使用 Admin 功能。
+- 文档极其混乱
+- 需要用 Admin 账号才能看到 powerbi 的 admin portal 配置。
+- 用自己的 mail2.sysu.edu.cn 注册 azure 和 powerbi 后，其实是作为成员用户使用, 无法使用 Admin 功能。
